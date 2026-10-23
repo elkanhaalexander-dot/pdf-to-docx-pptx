@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.install-*/
+vendor/ocr/
+vendor/ocr_models/*.onnx
+vendor/ocr_models/*.part-*
+*.conversion.json
+*.docx
+*.pptx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.log
+.env
+.env.*
